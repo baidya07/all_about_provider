@@ -1,16 +1,9 @@
 # all_about_provider
 
-A new Flutter project using provider.
-
+This is a basic app which uses provide as state management. 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this app there is basically just two screens. In first screen, there are list of names of famous person and there is an icon button where you can follow it.
+And in second screen, there basically comes the names of people you decided to follow in the first screen. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app just shows the basic usages of provider as a state management where there is a event where you click on the icon of the person of the first screen and it gets added in the next screen. & if it is already added, it gets removed from the screen. The logic of this application is very easy to understand.
